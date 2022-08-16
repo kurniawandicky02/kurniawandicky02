@@ -1,4 +1,7 @@
 <p align="center">
+  <img width="300" height="150" border-radius="100℅" src="https://raw.githubusercontent.com/kurniawandicky02/kurniawandicky02/master/icons/logo.png">
+</p>
+<p align="center">
    <img 
     src="https://readme-typing-svg.herokuapp.com?color=%422446&size=25&center=true&height=60&lines=Welcome+To+My+Github+😊;I'm+Dicky+Kurniawan+👋+😊"
    />
