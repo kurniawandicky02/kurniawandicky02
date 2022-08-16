@@ -1,4 +1,8 @@
-Hi there, I'm Dicky Kurniawan!👋☺
+<p align="center">
+   <img 
+    src="https://readme-typing-svg.herokuapp.com?color=%422446&size=25&center=true&height=60&lines=Welcome+To+My+Github+😊;I'm+Dicky+Kurniawan+👋+😊"
+   />
+</p>
 
  # I'm a self-taught, passionate and I enjoy building everything from FrontEnd developer
 
