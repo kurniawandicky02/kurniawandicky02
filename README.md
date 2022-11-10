@@ -1,11 +1,14 @@
+
+
 <p align="center">
-  <img width="300" height="150" border-radius="100℅" src="https://raw.githubusercontent.com/kurniawandicky02/kurniawandicky02/master/icons/logo.png">
-</p>
+<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /><br />
+ </p>
 <p align="center">
    <img 
     src="https://readme-typing-svg.herokuapp.com?color=%422446&size=25&center=true&height=60&lines=Welcome+To+My+Github+😊;I'm+Dicky+Kurniawan+👋+😊"
    />
 </p>
+
 
  # I'm a self-taught, passionate and I enjoy building everything from FrontEnd developer
 
